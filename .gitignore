@@ -1,0 +1,6 @@
+data/prompts_test.csv
+data/prompts_train.csv
+data/sample_submission.csv
+data/summaries_test.csv
+data/summaries_train.csv
+.DS_Store
